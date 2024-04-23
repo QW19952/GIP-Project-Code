@@ -1,5 +1,5 @@
 # GIP-Project-Code
-Design and investigation of testing equipment for characterisation of parallel-connected lithium-ion battery cells
+Code used in my 2024 GIP Project: Design and investigation of testing equipment for characterisation of parallel-connected lithium-ion battery cells
 
 #PC
 Everything required for the PC client is within the file PCCLientScritpt.py and should run with the required libaries imported
