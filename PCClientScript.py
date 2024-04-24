@@ -12,7 +12,7 @@ import csv
 from datetime import datetime
 
 # --------------------------------Sever Setup-----------------------------------------
-serverAddress = ('192.168.137.128', 2222)
+serverAddress = ('IP', 2222)  #Enter your server IP
 bufferSize = 1048576
 UDPClient = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
